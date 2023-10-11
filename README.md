@@ -1,10 +1,4 @@
-- 👋 Hi, I’m Masoud Salehi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Masoud Salehi
 
-<!---
-Msalehi237/Msalehi237 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+PhD Candidate in Information Systems and Business Analytics
+Iowa State University
